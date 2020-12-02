@@ -6,4 +6,6 @@ echo "This ", "string ", "was ", "made ", "with multiple parameters.";
 
 echo "This ", "string ", "was ", "made ", "with new  parameters.";
 echo "This ", "string ", "was ", "made ", "with super  parameters.";
+echo "This ", "number ", "was ", "made ", "with new  parameters.";
+echo "This ", "number ", "was ", "made ", "with super  parameters.";
 ?>
